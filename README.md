@@ -1,9 +1,10 @@
-# restful_booker_API_Testing
 # Restful Booker API Testing | Postman & Newman
 
 **Project Overview**
 
 Restful Booker API Testing is a comprehensive API testing project designed to validate the functionality, reliability, security, and robustness of RESTful APIs using Postman and Newman. The project covers positive, negative, boundary-value, authorization, CRUD operations, input validation, and exploratory testing scenarios.
+<img width="1899" height="1226" alt="screencapture-file-C-Users-Isteak-Ahmed-Downloads-Report-RestfulBooker-Report-html-2026-10-10-22_49_34" src="https://github.com/user-attachments/assets/4d6d55df-9191-4a6d-9b00-58dc2e9f82e1" />
+
 
 **Key Features**
 - **API Functional Testing:** Validates GET, POST, PUT, PATCH, and DELETE requests.
@@ -23,6 +24,7 @@ Restful Booker API Testing is a comprehensive API testing project designed to va
 - REST API
 - JSON
 - JavaScript (Postman test scripts)
+  
 
 **Project Objective**
 
