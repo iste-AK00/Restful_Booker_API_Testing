@@ -46,7 +46,6 @@ RestfulBooker-API-Testing/
 └── test-results/
     └── RestfulBooker_Test_Cases.xlsx
 
-
 **Test Coverage**
 The collection is designed to validate API behavior through request execution and response assertions.
 
