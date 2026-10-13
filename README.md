@@ -1,8 +1,11 @@
-# Restful Booker API Testing | Postman & Newman
+**Restful Booker API Testing Project**
+
+A comprehensive API testing project for the Restful Booker API, created using Postman and Newman. This project focuses on API functionality, response validation, HTTP status codes, response data, and automated test execution.
 
 **Project Overview**
+The purpose of this project is to validate the functionality and reliability of the Restful Booker API through automated API testing.
 
-Restful Booker API Testing is a comprehensive API testing project designed to validate the functionality, reliability, security, and robustness of RESTful APIs using Postman and Newman. The project covers positive, negative, boundary-value, authorization, CRUD operations, input validation, and exploratory testing scenarios.
+The project includes a Postman collection, environment configuration, automated test scripts, an HTML execution report, and an Excel-based test case inventory.
 <img width="1899" height="1226" alt="screencapture-file-C-Users-Isteak-Ahmed-Downloads-Report-RestfulBooker-Report-html-2026-10-10-22_49_34" src="https://github.com/user-attachments/assets/4d6d55df-9191-4a6d-9b00-58dc2e9f82e1" />
 
 
@@ -25,9 +28,44 @@ Restful Booker API Testing is a comprehensive API testing project designed to va
 - JSON
 - JavaScript (Postman test scripts)
   
+**Project Structure**
+RestfulBooker-API-Testing/
+│
+├── README.md
+├── .gitignore
+│
+├── collections/
+│   └── RestfulBooker_Collection.json
+│
+├── environments/
+│   └── RestfulBooker_Environment.json
+│
+├── reports/
+│   └── RestfulBooker_Report.html
+│
+└── test-results/
+    └── RestfulBooker_Test_Cases.xlsx
 
-**Project Objective**
 
-The objective is to identify API defects, validate expected system behavior, improve test coverage, and demonstrate practical skills in API testing and test automation.
+**Test Coverage**
+The collection is designed to validate API behavior through request execution and response assertions.
+
+Testing areas include:
+
+HTTP status code validation
+
+Response body validation
+
+Response structure and data checks
+
+JSON property and value validation
+
+Authentication-related request validation
+
+Booking-related API operations
+
+Response-time checks where implemented
+
+Negative and error-response validation where implemented
 
 **Disclaimer:** This project uses the Restful Booker public demo API for learning and testing purposes. Test results may vary depending on API availability and environment behavior.
